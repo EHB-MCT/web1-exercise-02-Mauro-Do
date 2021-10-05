@@ -1,0 +1,42 @@
+h1,
+h2,
+p,
+img,
+a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+body {
+    background-color: #e9eaea
+}
+
+p {
+    color: darkgray;
+}
+
+p {
+    margin-bottom: 25px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: grey;
+}
+
+.grijs {
+    color: darkgray;
+}
+
+h1 {
+    color: red;
+}
